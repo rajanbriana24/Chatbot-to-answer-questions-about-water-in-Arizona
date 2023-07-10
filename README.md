@@ -4,6 +4,7 @@ Welcome to the Chatbot-to-answer-questions-about-water-in-Arizona project! This 
 ![chatbot_blueprint (1)](https://github.com/rajanbriana24/Chatbot-to-answer-questions-about-water-in-Arizona/assets/61128499/b298fb83-b4c1-4c6c-95f0-0e519d702c02)
 
 Example:
+
 User Input: How are canals used to harvest rainwater
 Inner Monologue of the Chatbot: 
 Step 1:#### The user is asking about the use of canals to harvest rainwater.
