@@ -1,8 +1,10 @@
 # Chatbot-to-answer-questions-about-water-in-Arizona
 Welcome to the Chatbot-to-answer-questions-about-water-in-Arizona project! This blueprint provides an overview of the architecture and functionality of the chatbot application dedicated to answering questions related to water in Arizona.
 
-![chatbot_blueprint (1)]()
-![Untitled Diagram](https://github.com/rajanbriana24/Chatbot-to-answer-questions-about-water-in-Arizona/assets/61128499/f08bb0d7-d4de-4218-967c-527e5d660067)
+![chatbot_blueprint
+
+![Untitled Diagram (1)](https://github.com/rajanbriana24/Chatbot-to-answer-questions-about-water-in-Arizona/assets/61128499/12b5d61a-3a99-4fcf-9f85-63925d43078d)
+
 
 Example:
 
